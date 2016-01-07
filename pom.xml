@@ -36,9 +36,9 @@
         <aem.publish.host>localhost</aem.publish.host>
         <aem.publish.port>4503</aem.publish.port>
         <sling.user>admin</sling.user>
-        <sling.password>admin</sling.password>
+        <sling.password>Itc@1234</sling.password>
         <vault.user>admin</vault.user>
-        <vault.password>admin</vault.password>
+        <vault.password>Itc@1234</vault.password>
     </properties>
     <build>
         <plugins>
