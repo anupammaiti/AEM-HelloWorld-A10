@@ -1,0 +1,6 @@
+com\helloworld\core\servlets\SimpleServlet.class
+com\helloworld\core\package-info.class
+com\helloworld\core\filters\LoggingFilter.class
+com\helloworld\core\schedulers\SimpleScheduledTask.class
+com\helloworld\core\listeners\SimpleResourceListener.class
+com\helloworld\core\models\HelloWorldModel.class
