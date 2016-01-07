@@ -231,6 +231,7 @@
                         <targetURL>http://${aem.host}:${aem.port}/crx/packmgr/service.jsp</targetURL>
                         <failOnError>true</failOnError>
                         <failOnMissingEmbed>true</failOnMissingEmbed>
+						<useProxy>false</useProxy>
                     </configuration>
                 </plugin>
                 <!-- Apache Felix Bundle Plugin -->
