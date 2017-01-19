@@ -31,14 +31,14 @@
     </modules>
 
     <properties>
-        <aem.host>172.31.116.72</aem.host>
+        <aem.host>localhost</aem.host>
         <aem.port>4502</aem.port>
         <aem.publish.host>localhost</aem.publish.host>
         <aem.publish.port>4503</aem.publish.port>
         <sling.user>admin</sling.user>
-        <sling.password>Itc@1234</sling.password>
+        <sling.password>admin</sling.password>
         <vault.user>admin</vault.user>
-        <vault.password>Itc@1234</vault.password>
+        <vault.password>admin</vault.password>
     </properties>
     <build>
         <plugins>
